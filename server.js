@@ -40,7 +40,7 @@ client.on("ready", () => {
 });
 // ======== { • playing • }======== //
 client.on("ready", () => {
-  client.user.setActivity("2help | it’s time to secure your server", {
+  client.user.setActivity("help | it’s time to secure your server", {
     type: "PLAYING"
   }); ////////////////mrfix
   client.user.setStatus("ONLINE");
